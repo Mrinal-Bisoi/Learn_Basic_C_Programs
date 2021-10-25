@@ -8,15 +8,14 @@ typedef struct complex
     int img;
 } cmp;
 
-cmp display(cmp complex, int i){
+void display(cmp complex, int i){
     printf("Complex number_%d :  %d + i%d \n", i+1, complex.real, complex.img);
-    i++;
 }
 
 int main(){
     cmp complex[5];
     for(int i = 0; i < 5; i++){
-        printf("Enter the real part and imaginary part of complex number%d : ", i+1);
+        printf("Enter the real part and imaginary part of complex number%d : \n", i+1);
         scanf("%d  %d", &complex[i].real, &complex[i].img);
     }
     for(int i = 0; i < 5; i++){
