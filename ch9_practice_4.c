@@ -1,3 +1,5 @@
+// Q) Write a C program to illustrate the use of arrow operator(->) in structure.
+
 #include<stdio.h>
 #include<string.h>
 
