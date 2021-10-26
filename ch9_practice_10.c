@@ -1,4 +1,4 @@
-// Using C write a structure capable of storing times(hh/mm/ss). Write a functuion to compare those times.
+// Using C write a structure capable of storing times(hh:mm:ss). Write a functuion to compare those times.
 
 #include <stdio.h>
 
