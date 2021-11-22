@@ -1,3 +1,5 @@
+// Write a C program to read the whole context of the text file getc_demo.txt 
+
 #include<stdio.h>
 
 int main(){
