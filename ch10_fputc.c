@@ -1,3 +1,5 @@
+// Write a C program to write on a text file putc_demo.txt
+
 #include<stdio.h>
 
 int main(){
