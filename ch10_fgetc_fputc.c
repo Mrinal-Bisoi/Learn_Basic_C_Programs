@@ -1,4 +1,4 @@
-// Write a C program to read the first character of the text file getc_demo.txt
+// Write a C program to read the first character of the text file getc_demo.txt 
 
 #include<stdio.h>
 
